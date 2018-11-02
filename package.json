@@ -58,7 +58,7 @@
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/orklann/atom-spotify3"
+    "url": "git@github.com:orklann/atom-spotify3.git"
   },
   "version": "0.2.0"
 }
