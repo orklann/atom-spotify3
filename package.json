@@ -46,7 +46,7 @@
   "engines": {
     "atom": ">0.50.0"
   },
-  "homepage": "https://github.com/albertorestifo/atom-spotify2#readme",
+  "homepage": "https://github.com/orklann/atom-spotify3",
   "license": "MIT",
   "main": "./lib/atom-spotify",
   "name": "atom-spotify3",
@@ -60,5 +60,5 @@
     "type": "git",
     "url": "git+https://github.com/albertorestifo/atom-spotify2.git"
   },
-  "version": "2.1.2"
+  "version": "3.0"
 }
