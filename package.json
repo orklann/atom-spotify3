@@ -36,7 +36,7 @@
   "_spec": "/private/var/folders/y2/hwf5bdfn5t5c8_2ms474cwfm0000gn/T/d-118101-19227-10meyln.olviwqxgvi/package.tgz",
   "_where": "/private/var/folders/y2/hwf5bdfn5t5c8_2ms474cwfm0000gn/T/apm-install-dir-118101-19227-1hi4edp.nlxz6qd7vi",
   "bugs": {
-    "url": "https://github.com/albertorestifo/atom-spotify2/issues"
+    "url": "https://github.com/orklann/atom-spotify3/issues"
   },
   "dependencies": {
     "spotify-node-applescript": "0.2.x"
@@ -58,7 +58,7 @@
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/albertorestifo/atom-spotify2.git"
+    "url": "git+https://github.com/orklann/atom-spotify3"
   },
   "version": "3.0"
 }
