@@ -14,9 +14,9 @@
     ]
   ],
   "_from": "../d-118101-19227-10meyln.olviwqxgvi/package.tgz",
-  "_id": "atom-spotify2@2.1.2",
+  "_id": "atom-spotify3@1.0",
   "_inCache": true,
-  "_location": "/atom-spotify2",
+  "_location": "/atom-spotify3",
   "_phantomChildren": {},
   "_requested": {
     "raw": "/private/var/folders/y2/hwf5bdfn5t5c8_2ms474cwfm0000gn/T/d-118101-19227-10meyln.olviwqxgvi/package.tgz",
@@ -60,5 +60,5 @@
     "type": "git",
     "url": "git+https://github.com/orklann/atom-spotify3"
   },
-  "version": "3.0"
+  "version": "0.0.0"
 }
